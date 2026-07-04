@@ -116,7 +116,7 @@ ORDER BY i.fecha_registro DESC;
 
 ## 👤 Autor
 
-- Joseph Amador 
+- Aldo Benitez Reyes 
 - [Tu Enlace a LinkedIn o Email]
 
 ---
