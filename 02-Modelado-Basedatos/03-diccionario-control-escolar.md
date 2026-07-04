@@ -6,7 +6,7 @@
  Proyecto  Control Escolar 
  Version  1.0 
  Fecha  Junio 2026
- Elaboro  Josep Amador 
+ Elaboro  Aldo benitez reyes 
  SGBD  SQLServer 
 
 2. Descripcion del sistema de base de datos 
