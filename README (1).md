@@ -116,7 +116,7 @@ ORDER BY i.fecha_registro DESC;
 
 ## 👤 Autor
 
-- **[Tu Nombre Aquí]**
+- Joseph Amador 
 - [Tu Enlace a LinkedIn o Email]
 
 ---
